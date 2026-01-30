@@ -1,3 +1,11 @@
+
+---
+name: "DOD R"
+about: "Checklist Definition of Done pour le front"
+labels: []
+assignees: []
+---
+
 # DoD – Développeurs R (Backend / Data / Scripts)
 
 ## Qualité du code
@@ -103,3 +111,4 @@
 
 -   [ ] ~~Le projet contient un README expliquant la structure des dossiers~~
 -   [ ] Faire un état des lieux des librairies necessaires pour le projet ( à faire valider par le client/metier )
+
