@@ -1,3 +1,10 @@
+---
+name: "DOD Front"
+about: "Checklist Definition of Done pour le front"
+labels: []
+assignees: []
+---
+
 # DoD – Développeurs HTML / CSS / JavaScript (Frontend)
 
 ## Fonctionnel
@@ -49,3 +56,4 @@
 
 -   [ ] Une arborescence de projet clair contenant uniquement des fichiers nécessaires, particulierment en fin de projet (pas de fichiers temporaires, pas de data locales non versionnées).
 -   [ ] Le projet contient un ~~README~~ wiki expliquant la structure des dossiers.
+
